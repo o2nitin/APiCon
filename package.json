@@ -1,0 +1,15 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "A small server program to call external api by node serevr ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitin K Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
